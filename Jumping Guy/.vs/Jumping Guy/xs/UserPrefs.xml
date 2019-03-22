@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{FBAC8940-52BF-80CA-EA96-6A424B6AF908}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Controller.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Controller.cs" Line="4" Column="15" />
+      <File FileName="Assets/Scripts/FollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MoveBackground.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
